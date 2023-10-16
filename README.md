@@ -2,8 +2,6 @@
 
 I'm ILikeFood971. I like learning about computers and programming and make minecraft mods!
 
-**ILikeFood971/ILikeFood971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #### 🔭 Current Projects
 - [Friend or Foe mod](https://github.com/ILikeFood971/ForF), a mod to help you recreate the Friend or Foe YouTube series on your own server
 - [Deodorant mod](https://github.com/ILikeFood971/Deodorant-Mod), a simple mod that adds a new deodorant item with special effects
